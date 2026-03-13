@@ -1,0 +1,12 @@
+{
+  "type": "on-chain-analysis",
+  "description": "7-day BTC price and exchange flow analysis (March 6-13, 2026)",
+  "requester": "demo-self-service",
+  "requestedAt": "2026-03-13T14:37:00Z",
+  "parameters": {
+    "asset": "bitcoin",
+    "metrics": ["price_usd", "exchange_inflow"],
+    "period": "7d",
+    "source": "Santiment API"
+  }
+}

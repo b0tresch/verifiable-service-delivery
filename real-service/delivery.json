@@ -1,0 +1,26 @@
+{
+  "type": "on-chain-analysis-report",
+  "deliveredAt": "2026-03-13T14:38:00Z",
+  "agent": "b0tresch (ERC-8004 #16843)",
+  "summary": "BTC rallied 8.3% from $68.1K to $73.8K over 7 days. Exchange inflows spiked Mar 9 (26.7K BTC) and Mar 12 (28.0K BTC), suggesting profit-taking at resistance levels. Despite inflows, price continued higher — indicating strong buy-side absorption. Bullish short-term.",
+  "data": {
+    "price": {
+      "2026-03-06": 68137, "2026-03-07": 67268, "2026-03-08": 65991,
+      "2026-03-09": 68401, "2026-03-10": 69919, "2026-03-11": 70190,
+      "2026-03-12": 70492, "2026-03-13": 73786
+    },
+    "exchangeInflow": {
+      "2026-03-06": 12772.7, "2026-03-07": 12419.7, "2026-03-08": 10644.8,
+      "2026-03-09": 26747.1, "2026-03-10": 21281.2, "2026-03-11": 23592.9,
+      "2026-03-12": 28008.7, "2026-03-13": 22386.6
+    }
+  },
+  "analysis": {
+    "priceChange": "+8.3%",
+    "peakInflow": "28,008.7 BTC (Mar 12)",
+    "trend": "bullish — price absorbing sell pressure",
+    "keyInsight": "Exchange inflows doubled (10.6K→28K) but price still rose $5.6K. Strong demand."
+  },
+  "source": "Santiment API (live data, not cached)",
+  "dataPoints": 16
+}
