@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/root/.openclaw/workspace/projects/synthesis-hackathon/contracts/ServiceReceipt.sol": {
+      "lastModificationDate": 1773333052448,
+      "contentHash": "25779d876b1fd35543fe2352d6c251a8",
+      "sourceName": "contracts/ServiceReceipt.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ServiceReceipt"
+      ]
+    }
+  }
+}
