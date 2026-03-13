@@ -1,1 +1,3 @@
-node_modules/\ncache/\nartifacts/
+node_modules/
+cache/
+artifacts/
