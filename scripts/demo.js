@@ -14,7 +14,7 @@ const crypto = require("crypto");
 
 // Config
 const MONAD_RPC = "https://testnet-rpc.monad.xyz";
-const CONTRACT_ADDRESS = "0x32874f1BB11074f348090bA13CF757Dad28d781F";
+const CONTRACT_ADDRESS = "0x2e8ddB16971b8825d556031688eF1F41fE9B886e";
 const ABI = [
   "function submitReceipt(address requester, bytes32 requestHash, bytes32 deliveryHash, string metadataURI) returns (uint256)",
   "function receipts(uint256) view returns (address agent, address requester, bytes32 requestHash, bytes32 deliveryHash, uint256 timestamp, string metadataURI)",
