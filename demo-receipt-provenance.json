@@ -1,0 +1,32 @@
+{
+  "type": "provenance-link",
+  "version": "1.0",
+  "receipt": {
+    "id": 0,
+    "agent": "0xd2c01F50A62b61e41306510ce5493924374Ffbc4",
+    "requestHash": "0x20f9a936bc1aef5fc7db0c9aa4b9e9c0f05ccc2dac9654f7c6104e10f8d297c1",
+    "deliveryHash": "0xbaba1302275913e2a57f0197ea810e39c9da7f1087ce93b80cffcdb659ccece8",
+    "timestamp": 1773374815,
+    "txHash": "0xe27b04690e96473346229818a323f0bdaa093b0b6cfbe3fed88ba65267e7b176",
+    "contract": "0x2e8ddB16971b8825d556031688eF1F41fE9B886e"
+  },
+  "checkpoint": {
+    "merkleRoot": "0xc4339d84886207d82397a6ae616a85124c04a545062185abcc82d5e60a531737",
+    "fileCount": 31,
+    "totalSize": 237928,
+    "txHash": "0x01a06fed2dd4666ea526a52fb35853cde62447b6fa13f2c18cf7e09f07f8e419",
+    "timeDelta": 6547
+  },
+  "identity": {
+    "standard": "ERC-8004",
+    "agentId": 16843,
+    "registry": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+    "chain": "base"
+  },
+  "chain": {
+    "receipt": "monad_testnet",
+    "checkpoint": "monad_testnet",
+    "identity": "base_mainnet"
+  },
+  "created": "2026-03-13T06:09:48.290Z"
+}
