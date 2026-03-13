@@ -1,0 +1,31 @@
+{
+  "receiptId": 1,
+  "agent": "0xd2c01F50A62b61e41306510ce5493924374Ffbc4",
+  "requester": "0x0000000000000000000000000000000000000000",
+  "requestHash": "0x089273cc6b9e4b56a254f9083e457387ade9320a1473d21af3342249812a5f79",
+  "deliveryHash": "0x42c5f17f72ae7ef007d70342c66b1b1eff0e62125842dfacb53041e1d2566a6e",
+  "timestamp": 1773392932,
+  "metadataURI": "data:application/json;base64,eyJ0eXBlIjoic2VydmljZS1yZWNlaXB0LW1ldGFkYXRhIiwidmVyc2lvbiI6IjEuMCIsInJlcXVlc3QiOiJBbmFseXplIEJUQyB3aGFsZSBtb3ZlbWVudHMgZm9yIHRoZSBwYXN0IDcgZGF5cyIsImRlbGl2ZXJ5U3VtbWFyeSI6IkJUQyB3aGFsZSBhY2N1bXVsYXRpb24gZGV0ZWN0ZWQ6IDEyLDQ1MCBCVEMgbW92ZWQgb2ZmIGV4Y2hhbmdlcy4gTmV0IG91dGZsb3cgb2YgNiwyNzcgQlRDIG9uIHBlYWsgZGF5LiBNVlJWIGRlY2xpbmluZyBmcm9tIDEuMjkxIHRvIDEuMjMwIHN1Z2dlc3RzIGFjY3VtdWxhdGlvbiB6b25lLiIsImNoZWNrcG9pbnQiOnsibWVya2xlUm9vdCI6IjB4OTE4YTBhOTM5Yzg0ZDBhYmY2YTk4NzgzNjlmMGMwNmUzYjE5OWViNjkwZWYxOTExMDkwOGM1YTQ4ZjM2ZWFmNCIsInR4SGFzaCI6IjB4MmY2MzBmYWU2NDhhMzcwMzQ3MThjZmFkNjcyMzMxNTdkZDliMTI4ZDI4YTE1YjVkZmU3NjUwNWVlYjlmOTg4NSIsImZpbGVDb3VudCI6MzF9LCJpZGVudGl0eSI6eyJzdGFuZGFyZCI6IkVSQy04MDA0IiwiYWdlbnRJZCI6MTY4NDN9fQ==",
+  "signature": "0x9efdefe8b9ba54deb4910ad9fb7fe46e31dd3cc5727a72ccfeefee81a0e898df0deeb8928228c2e297873bcbd5f3f5b6ce8851a916b00ede8c80b68aab2b04981c",
+  "domain": {
+    "name": "ServiceReceipt",
+    "version": "1",
+    "chainId": 10143
+  },
+  "txHash": "0x553dd5c7ff76532def3a8aa3058477b19881daa4ed4ad535c0836f77092f6a13",
+  "blockNumber": 18506354,
+  "contract": "0x2e8ddB16971b8825d556031688eF1F41fE9B886e",
+  "network": "monad_testnet",
+  "provenance": {
+    "checkpoint": {
+      "root": "0x918a0a939c84d0abf6a9878369f0c06e3b199eb690ef19110908c5a48f36eaf4",
+      "tx": "0x2f630fae648a37034718cfad67233157dd9b128d28a15b5dfe76505eeb9f9885"
+    },
+    "identity": {
+      "standard": "ERC-8004",
+      "agentId": 16843,
+      "chain": "base"
+    }
+  },
+  "created": "2026-03-13T09:08:57.113Z"
+}
