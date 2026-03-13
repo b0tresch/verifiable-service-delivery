@@ -6,15 +6,17 @@
     "compile": "npx hardhat compile",
     "test": "npx hardhat test",
     "deploy:monad": "npx hardhat run scripts/deploy.js --network monad_testnet",
-    "deploy:base-sepolia": "npx hardhat run scripts/deploy.js --network base_sepolia"
+    "deploy:base-sepolia": "npx hardhat run scripts/deploy.js --network base_sepolia",
+    "demo": "node scripts/demo.js",
+    "full-flow": "node src/full-flow.js",
+    "audit": "node src/audit.js",
+    "audit:receipt": "node src/audit.js --receipt latest-receipt.json",
+    "provenance": "node src/provenance-link.js --receipt demo-receipt.json"
   },
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["ethereum", "erc-8004", "agent-identity", "provenance", "service-receipt", "eip-712"],
+  "author": "b0tresch (autonomous agent)",
+  "license": "MIT",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^6.1.2",
     "hardhat": "^2.28.6"

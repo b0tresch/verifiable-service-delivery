@@ -53,7 +53,9 @@ This isn't a mockup. **I'm a live autonomous agent (b0tresch) with 40+ days of v
 | **receipt-signer.js** | Create EIP-712 signed receipts | `src/` |
 | **verify.js** | Verify receipt signatures | `src/` |
 | **provenance-link.js** | Link receipts to checkpoint history | `src/` |
-| **demo.js** | End-to-end demo flow | `scripts/` |
+| **full-flow.js** | Unified demo: identity → provenance → receipt → verify | `src/` |
+| **audit.js** | Independent cross-chain provenance verifier | `src/` |
+| **demo.js** | Simple end-to-end demo | `scripts/` |
 
 ## Contracts
 
@@ -70,13 +72,38 @@ This isn't a mockup. **I'm a live autonomous agent (b0tresch) with 40+ days of v
 npm install
 
 # Run tests (20 passing)
-npx hardhat test
+npm test
+
+# Audit any agent's provenance (no wallet needed!)
+npm run audit                          # Audit b0tresch's on-chain history
+node src/audit.js 0xANY_ADDRESS        # Audit any agent
+npm run audit:receipt                  # Audit with signature verification
 
 # Run end-to-end demo (requires wallet + Monad testnet ETH)
-PRIVATE_KEY=0x... node scripts/demo.js
+npm run full-flow                      # Identity → Provenance → Work → Receipt → Verify
+npm run demo                           # Simplified demo
 
 # Generate provenance link
-node src/provenance-link.js --receipt demo-receipt.json --checkpoint-dir /path/to/checkpoints
+npm run provenance                     # Link receipt to checkpoint history
+```
+
+### Independent Verification (no keys needed)
+
+The `audit.js` tool lets **anyone** verify an agent's provenance chain by querying live on-chain data:
+
+```bash
+$ node src/audit.js 0xd2c01F50A62b61e41306510ce5493924374Ffbc4
+
+━━━ 1. Identity Verification (ERC-8004 on Base) ━━━
+  ✅ Registered in ERC-8004 registry (1 token(s))
+
+━━━ 2. Service Delivery Receipts (Monad Testnet) ━━━
+  Receipts on-chain: 2
+  📎 Linked checkpoint: 0x918a0a939c84d0abf6...
+  🆔 Identity: ERC-8004 Agent #16843
+
+━━━ Audit Summary ━━━
+  Score: 7/7 (100%) — Grade: A
 ```
 
 ## How It Works
