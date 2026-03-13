@@ -1,0 +1,22 @@
+{
+  "name": "synthesis-service-receipt",
+  "version": "1.0.0",
+  "description": "Verifiable Agent Service Delivery — The Synthesis Hackathon",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "deploy:monad": "npx hardhat run scripts/deploy.js --network monad_testnet",
+    "deploy:base-sepolia": "npx hardhat run scripts/deploy.js --network base_sepolia"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.2",
+    "hardhat": "^2.28.6"
+  }
+}
