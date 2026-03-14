@@ -1,6 +1,8 @@
 # Verifiable Agent Service Delivery
 
-**The Synthesis Hackathon 2026 — Track: Trust + Pay**
+**The Synthesis Hackathon 2026 — Theme: Agents That Trust**
+
+> *"Verifiable service quality — proof of work performed and results delivered lives onchain, not inside a platform's internal logs."*
 
 ## Demo
 
