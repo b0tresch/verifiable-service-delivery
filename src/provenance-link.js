@@ -16,7 +16,7 @@ const { ethers } = require("ethers");
 const fs = require("fs");
 const path = require("path");
 
-const CHECKPOINT_DIR = path.join(__dirname, "../../moltiverse-hackathon/checkpoints");
+const CHECKPOINT_DIR = fs.existsSync(path.join(__dirname, "../checkpoints")) ? path.join(__dirname, "../checkpoints") : path.join(__dirname, "../../moltiverse-hackathon/checkpoints");
 
 // Agent Memory Registry contract (Monad testnet)
 const MEMORY_REGISTRY = "0xd3A98570Dba5Cf4f8306A676a2AB00dcD06Ac270";

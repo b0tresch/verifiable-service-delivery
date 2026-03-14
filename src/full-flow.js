@@ -22,7 +22,9 @@ const path = require("path");
 const MONAD_RPC = "https://testnet-rpc.monad.xyz";
 const CONTRACT_ADDRESS = "0x2e8ddB16971b8825d556031688eF1F41fE9B886e";
 const MEMORY_REGISTRY = "0xd3A98570Dba5Cf4f8306A676a2AB00dcD06Ac270";
-const CHECKPOINT_DIR = path.join(__dirname, "../../moltiverse-hackathon/checkpoints");
+const CHECKPOINT_DIR = fs.existsSync(path.join(__dirname, "../checkpoints"))
+  ? path.join(__dirname, "../checkpoints")
+  : path.join(__dirname, "../../moltiverse-hackathon/checkpoints");
 const WALLET_PATH = path.join(process.env.HOME, ".evm-wallet.json");
 
 const ABI = [

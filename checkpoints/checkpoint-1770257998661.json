@@ -1,0 +1,593 @@
+{
+  "files": [
+    {
+      "path": "/root/.openclaw/workspace/MEMORY.md",
+      "relativePath": "MEMORY.md",
+      "hash": {
+        "type": "Buffer",
+        "data": [
+          117,
+          229,
+          18,
+          46,
+          184,
+          197,
+          181,
+          157,
+          84,
+          175,
+          39,
+          90,
+          22,
+          184,
+          109,
+          226,
+          252,
+          226,
+          117,
+          254,
+          231,
+          6,
+          247,
+          125,
+          238,
+          162,
+          135,
+          225,
+          205,
+          117,
+          150,
+          68
+        ]
+      },
+      "size": 5887,
+      "modified": "2026-02-05T00:05:27.067Z"
+    },
+    {
+      "path": "/root/.openclaw/workspace/AGENTS.md",
+      "relativePath": "AGENTS.md",
+      "hash": {
+        "type": "Buffer",
+        "data": [
+          213,
+          11,
+          2,
+          222,
+          37,
+          9,
+          106,
+          232,
+          219,
+          156,
+          122,
+          108,
+          134,
+          127,
+          234,
+          37,
+          196,
+          147,
+          0,
+          63,
+          92,
+          67,
+          138,
+          139,
+          3,
+          174,
+          125,
+          255,
+          164,
+          49,
+          123,
+          69
+        ]
+      },
+      "size": 8517,
+      "modified": "2026-02-03T17:25:41.189Z"
+    },
+    {
+      "path": "/root/.openclaw/workspace/SOUL.md",
+      "relativePath": "SOUL.md",
+      "hash": {
+        "type": "Buffer",
+        "data": [
+          33,
+          201,
+          146,
+          32,
+          193,
+          232,
+          148,
+          193,
+          117,
+          104,
+          112,
+          135,
+          133,
+          187,
+          66,
+          170,
+          94,
+          197,
+          11,
+          176,
+          195,
+          228,
+          97,
+          7,
+          248,
+          122,
+          171,
+          215,
+          88,
+          16,
+          22,
+          72
+        ]
+      },
+      "size": 2858,
+      "modified": "2026-02-04T12:17:05.477Z"
+    },
+    {
+      "path": "/root/.openclaw/workspace/USER.md",
+      "relativePath": "USER.md",
+      "hash": {
+        "type": "Buffer",
+        "data": [
+          249,
+          231,
+          140,
+          94,
+          137,
+          140,
+          159,
+          122,
+          37,
+          63,
+          203,
+          68,
+          63,
+          175,
+          123,
+          60,
+          176,
+          43,
+          222,
+          118,
+          156,
+          179,
+          158,
+          77,
+          65,
+          220,
+          99,
+          5,
+          27,
+          78,
+          49,
+          80
+        ]
+      },
+      "size": 573,
+      "modified": "2026-02-02T16:30:05.139Z"
+    },
+    {
+      "path": "/root/.openclaw/workspace/IDENTITY.md",
+      "relativePath": "IDENTITY.md",
+      "hash": {
+        "type": "Buffer",
+        "data": [
+          71,
+          130,
+          81,
+          3,
+          240,
+          190,
+          213,
+          0,
+          249,
+          94,
+          120,
+          7,
+          80,
+          209,
+          248,
+          150,
+          215,
+          137,
+          237,
+          57,
+          218,
+          254,
+          245,
+          88,
+          200,
+          9,
+          252,
+          174,
+          103,
+          200,
+          17,
+          109
+        ]
+      },
+      "size": 490,
+      "modified": "2026-02-02T16:22:54.465Z"
+    },
+    {
+      "path": "/root/.openclaw/workspace/GOALS.md",
+      "relativePath": "GOALS.md",
+      "hash": {
+        "type": "Buffer",
+        "data": [
+          77,
+          232,
+          100,
+          232,
+          140,
+          217,
+          0,
+          200,
+          176,
+          108,
+          215,
+          24,
+          132,
+          205,
+          67,
+          127,
+          20,
+          184,
+          35,
+          96,
+          190,
+          109,
+          68,
+          41,
+          99,
+          200,
+          99,
+          103,
+          197,
+          81,
+          118,
+          181
+        ]
+      },
+      "size": 3163,
+      "modified": "2026-02-04T13:20:37.947Z"
+    },
+    {
+      "path": "/root/.openclaw/workspace/TOOLS.md",
+      "relativePath": "TOOLS.md",
+      "hash": {
+        "type": "Buffer",
+        "data": [
+          38,
+          129,
+          20,
+          109,
+          83,
+          41,
+          1,
+          11,
+          207,
+          95,
+          223,
+          93,
+          161,
+          63,
+          9,
+          23,
+          125,
+          51,
+          191,
+          3,
+          220,
+          119,
+          138,
+          33,
+          70,
+          12,
+          49,
+          220,
+          202,
+          16,
+          215,
+          249
+        ]
+      },
+      "size": 3425,
+      "modified": "2026-02-04T17:24:34.599Z"
+    },
+    {
+      "path": "/root/.openclaw/workspace/HEARTBEAT.md",
+      "relativePath": "HEARTBEAT.md",
+      "hash": {
+        "type": "Buffer",
+        "data": [
+          42,
+          99,
+          230,
+          163,
+          0,
+          175,
+          138,
+          181,
+          134,
+          75,
+          190,
+          131,
+          202,
+          174,
+          190,
+          107,
+          12,
+          119,
+          73,
+          221,
+          251,
+          175,
+          168,
+          32,
+          124,
+          121,
+          35,
+          185,
+          79,
+          230,
+          176,
+          79
+        ]
+      },
+      "size": 1795,
+      "modified": "2026-02-03T17:26:33.126Z"
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/2026-02-02.md",
+      "relativePath": "memory/2026-02-02.md",
+      "hash": {
+        "type": "Buffer",
+        "data": [
+          132,
+          183,
+          188,
+          65,
+          118,
+          201,
+          193,
+          138,
+          31,
+          71,
+          168,
+          95,
+          99,
+          178,
+          255,
+          22,
+          122,
+          117,
+          54,
+          110,
+          150,
+          138,
+          231,
+          191,
+          179,
+          4,
+          12,
+          79,
+          100,
+          88,
+          192,
+          235
+        ]
+      },
+      "size": 14744,
+      "modified": "2026-02-02T22:36:40.876Z"
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/2026-02-03.md",
+      "relativePath": "memory/2026-02-03.md",
+      "hash": {
+        "type": "Buffer",
+        "data": [
+          97,
+          26,
+          244,
+          76,
+          199,
+          249,
+          111,
+          27,
+          32,
+          39,
+          221,
+          9,
+          82,
+          250,
+          221,
+          231,
+          217,
+          5,
+          206,
+          121,
+          165,
+          61,
+          236,
+          233,
+          44,
+          72,
+          29,
+          1,
+          129,
+          54,
+          250,
+          185
+        ]
+      },
+      "size": 20426,
+      "modified": "2026-02-03T23:56:43.353Z"
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/2026-02-04.md",
+      "relativePath": "memory/2026-02-04.md",
+      "hash": {
+        "type": "Buffer",
+        "data": [
+          163,
+          159,
+          216,
+          213,
+          159,
+          223,
+          168,
+          218,
+          149,
+          182,
+          120,
+          121,
+          105,
+          103,
+          224,
+          150,
+          146,
+          146,
+          19,
+          77,
+          97,
+          202,
+          195,
+          25,
+          158,
+          2,
+          178,
+          130,
+          13,
+          108,
+          109,
+          156
+        ]
+      },
+      "size": 7683,
+      "modified": "2026-02-04T23:55:19.388Z"
+    }
+  ],
+  "root": "0x88955333d5e159af7fbac54bc53b4c7be3c40267c3846a69538dd484d6ef5696",
+  "fileCount": 11,
+  "totalBytes": 69561,
+  "timestamp": "2026-02-05T02:19:54.197Z",
+  "txHash": "0x98892bd304467608be99321b9e0465dec01dda000cb9633943aa0d8a9967cfd3",
+  "blockNumber": 10735347,
+  "network": "testnet",
+  "contractAddress": "0xd3A98570Dba5Cf4f8306A676a2AB00dcD06Ac270",
+  "proofs": [
+    {
+      "file": "MEMORY.md",
+      "hash": "0x75e5122eb8c5b59d54af275a16b86de2fce275fee706f77deea287e1cd759644",
+      "proof": [
+        "0xd50b02de25096ae8db9c7a6c867fea25c493003f5c438a8b03ae7dffa4317b45",
+        "0x089bfd1e5895e4314f2b6bae0c942a0b050fef5b4f308634b43c23b468d7f03d",
+        "0x436c1ede2b6e62d87cc5c49f85f6d6dceb6450cdd80e659741afab219fdfebca",
+        "0xdeab4efdf9a12af6c2a13c58de8b912b16b63a57dd4cd6050408f8d4c8e0fdeb"
+      ]
+    },
+    {
+      "file": "AGENTS.md",
+      "hash": "0xd50b02de25096ae8db9c7a6c867fea25c493003f5c438a8b03ae7dffa4317b45",
+      "proof": [
+        "0x75e5122eb8c5b59d54af275a16b86de2fce275fee706f77deea287e1cd759644",
+        "0x089bfd1e5895e4314f2b6bae0c942a0b050fef5b4f308634b43c23b468d7f03d",
+        "0x436c1ede2b6e62d87cc5c49f85f6d6dceb6450cdd80e659741afab219fdfebca",
+        "0xdeab4efdf9a12af6c2a13c58de8b912b16b63a57dd4cd6050408f8d4c8e0fdeb"
+      ]
+    },
+    {
+      "file": "SOUL.md",
+      "hash": "0x21c99220c1e894c17568708785bb42aa5ec50bb0c3e46107f87aabd758101648",
+      "proof": [
+        "0xf9e78c5e898c9f7a253fcb443faf7b3cb02bde769cb39e4d41dc63051b4e3150",
+        "0xf769bde18fd3f271ca585dcacd52e894c66025fe6baf783780937beb3786bca3",
+        "0x436c1ede2b6e62d87cc5c49f85f6d6dceb6450cdd80e659741afab219fdfebca",
+        "0xdeab4efdf9a12af6c2a13c58de8b912b16b63a57dd4cd6050408f8d4c8e0fdeb"
+      ]
+    },
+    {
+      "file": "USER.md",
+      "hash": "0xf9e78c5e898c9f7a253fcb443faf7b3cb02bde769cb39e4d41dc63051b4e3150",
+      "proof": [
+        "0x21c99220c1e894c17568708785bb42aa5ec50bb0c3e46107f87aabd758101648",
+        "0xf769bde18fd3f271ca585dcacd52e894c66025fe6baf783780937beb3786bca3",
+        "0x436c1ede2b6e62d87cc5c49f85f6d6dceb6450cdd80e659741afab219fdfebca",
+        "0xdeab4efdf9a12af6c2a13c58de8b912b16b63a57dd4cd6050408f8d4c8e0fdeb"
+      ]
+    },
+    {
+      "file": "IDENTITY.md",
+      "hash": "0x47825103f0bed500f95e780750d1f896d789ed39dafef558c809fcae67c8116d",
+      "proof": [
+        "0x4de864e88cd900c8b06cd71884cd437f14b82360be6d442963c86367c55176b5",
+        "0x3d649e0fbe613e698d7f1b78ebc62fe4c1dc1edcbc35e8f75145384b64e15493",
+        "0x423cec889ec1c9fae75d6bc1285a62ace3cdf8c331cffaab14c05eeb98300ef2",
+        "0xdeab4efdf9a12af6c2a13c58de8b912b16b63a57dd4cd6050408f8d4c8e0fdeb"
+      ]
+    },
+    {
+      "file": "GOALS.md",
+      "hash": "0x4de864e88cd900c8b06cd71884cd437f14b82360be6d442963c86367c55176b5",
+      "proof": [
+        "0x47825103f0bed500f95e780750d1f896d789ed39dafef558c809fcae67c8116d",
+        "0x3d649e0fbe613e698d7f1b78ebc62fe4c1dc1edcbc35e8f75145384b64e15493",
+        "0x423cec889ec1c9fae75d6bc1285a62ace3cdf8c331cffaab14c05eeb98300ef2",
+        "0xdeab4efdf9a12af6c2a13c58de8b912b16b63a57dd4cd6050408f8d4c8e0fdeb"
+      ]
+    },
+    {
+      "file": "TOOLS.md",
+      "hash": "0x2681146d5329010bcf5fdf5da13f09177d33bf03dc778a21460c31dcca10d7f9",
+      "proof": [
+        "0x2a63e6a300af8ab5864bbe83caaebe6b0c7749ddfbafa8207c7923b94fe6b04f",
+        "0x626628dd0c92034c0a6543c162c08f09f1b50662cf081378ae3c200c5fd95ff1",
+        "0x423cec889ec1c9fae75d6bc1285a62ace3cdf8c331cffaab14c05eeb98300ef2",
+        "0xdeab4efdf9a12af6c2a13c58de8b912b16b63a57dd4cd6050408f8d4c8e0fdeb"
+      ]
+    },
+    {
+      "file": "HEARTBEAT.md",
+      "hash": "0x2a63e6a300af8ab5864bbe83caaebe6b0c7749ddfbafa8207c7923b94fe6b04f",
+      "proof": [
+        "0x2681146d5329010bcf5fdf5da13f09177d33bf03dc778a21460c31dcca10d7f9",
+        "0x626628dd0c92034c0a6543c162c08f09f1b50662cf081378ae3c200c5fd95ff1",
+        "0x423cec889ec1c9fae75d6bc1285a62ace3cdf8c331cffaab14c05eeb98300ef2",
+        "0xdeab4efdf9a12af6c2a13c58de8b912b16b63a57dd4cd6050408f8d4c8e0fdeb"
+      ]
+    },
+    {
+      "file": "memory/2026-02-02.md",
+      "hash": "0x84b7bc4176c9c18a1f47a85f63b2ff167a75366e968ae7bfb3040c4f6458c0eb",
+      "proof": [
+        "0x611af44cc7f96f1b2027dd0952fadde7d905ce79a53dece92c481d018136fab9",
+        "0xa39fd8d59fdfa8da95b678796967e0969292134d61cac3199e02b2820d6c6d9c",
+        "0x801f31f3e6ecfff94f314a620b00bc04ac56f5620b6c4201681d728763cda822"
+      ]
+    },
+    {
+      "file": "memory/2026-02-03.md",
+      "hash": "0x611af44cc7f96f1b2027dd0952fadde7d905ce79a53dece92c481d018136fab9",
+      "proof": [
+        "0x84b7bc4176c9c18a1f47a85f63b2ff167a75366e968ae7bfb3040c4f6458c0eb",
+        "0xa39fd8d59fdfa8da95b678796967e0969292134d61cac3199e02b2820d6c6d9c",
+        "0x801f31f3e6ecfff94f314a620b00bc04ac56f5620b6c4201681d728763cda822"
+      ]
+    },
+    {
+      "file": "memory/2026-02-04.md",
+      "hash": "0xa39fd8d59fdfa8da95b678796967e0969292134d61cac3199e02b2820d6c6d9c",
+      "proof": [
+        "0xd1dea4e803ab015e835cae70c67a49d3a1a3e721f19b5b8963d4fab6d961352b",
+        "0x801f31f3e6ecfff94f314a620b00bc04ac56f5620b6c4201681d728763cda822"
+      ]
+    }
+  ]
+}

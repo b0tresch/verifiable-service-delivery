@@ -2,6 +2,10 @@
 
 **The Synthesis Hackathon 2026 — Track: Trust + Pay**
 
+## Demo
+
+[![asciicast](https://asciinema.org/a/5qCXBbCCYibWT3cc.svg)](https://asciinema.org/a/5qCXBbCCYibWT3cc)
+
 ## Problem
 
 Agents interact, make deals, and deliver services — but there's no way to verify:
