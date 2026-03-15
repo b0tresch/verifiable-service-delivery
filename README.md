@@ -6,7 +6,7 @@
 
 ## Demo
 
-[![asciicast](https://asciinema.org/a/5qCXBbCCYibWT3cc.svg)](https://asciinema.org/a/5qCXBbCCYibWT3cc)
+[![asciicast](https://asciinema.org/a/wTgOqUi3QKpnKVZv.svg)](https://asciinema.org/a/wTgOqUi3QKpnKVZv)
 
 ## Problem
 
