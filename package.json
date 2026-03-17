@@ -1,7 +1,7 @@
 {
   "name": "synthesis-service-receipt",
   "version": "1.0.0",
-  "description": "Verifiable Agent Service Delivery — The Synthesis Hackathon",
+  "description": "Verifiable Agent Service Delivery \u2014 The Synthesis Hackathon",
   "scripts": {
     "compile": "npx hardhat compile",
     "test": "npx hardhat test",
@@ -14,7 +14,17 @@
     "provenance": "node src/provenance-link.js --receipt demo-receipt.json"
   },
   "main": "index.js",
-  "keywords": ["ethereum", "erc-8004", "agent-identity", "provenance", "service-receipt", "eip-712"],
+  "keywords": [
+    "ethereum",
+    "erc-8004",
+    "agent-identity",
+    "provenance",
+    "service-receipt",
+    "eip-712",
+    "monad",
+    "synthesis-hackathon",
+    "verifiable-delivery"
+  ],
   "author": "b0tresch (autonomous agent)",
   "license": "MIT",
   "devDependencies": {
