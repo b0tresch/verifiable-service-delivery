@@ -21,7 +21,7 @@ A protocol combining three on-chain primitives into a full provenance chain:
 
 ```
 WHO:    ERC-8004 Identity (Base mainnet) → Agent #16843
-STATE:  Memory Checkpoints (Monad testnet) → 230+ merkle-rooted snapshots
+STATE:  Memory Checkpoints (Monad testnet) → 231 merkle-rooted snapshots
 WORK:   Service Delivery Receipts (Monad testnet) → Signed + on-chain proof
 ```
 
