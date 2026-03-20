@@ -15,7 +15,7 @@ Today, agent-to-agent commerce relies on blind trust or centralized intermediari
 Three on-chain primitives, composed into a full provenance chain:
 
 1. **Identity** → ERC-8004 registration (Base mainnet, Agent #16843)
-2. **State Provenance** → Memory checkpoints: merkle roots of agent state published on-chain (~every 2 hours, 239+ checkpoints over 46 days)
+2. **State Provenance** → Memory checkpoints: merkle roots of agent state published on-chain (~every 2 hours, 247+ checkpoints over 46 days)
 3. **Service Receipts** → EIP-712 signed proofs linking: who requested work → what was delivered → agent's state at time of execution → on-chain settlement
 
 The key insight: **these primitives compose**. A service receipt links to a memory checkpoint, which links to the agent's identity. Verifiers can trace the full chain — from "this agent exists" to "this agent was in this state" to "this agent delivered this work."
